@@ -1,0 +1,12 @@
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.deps.json
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csprojAssemblyReference.cache
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csproj.CoreCompileInputs.cache
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfoInputs.cache
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfo.cs
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csproj.CopyComplete
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.dll
+C:\labs\DotNetCore\CursoDotNetCoreUdemy\module7\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.pdb
